@@ -1,6 +1,6 @@
 # Product Management API (Laravel)
 
-This is a simple Product CRUD API built using **Laravel 10** and **Eloquent ORM**. It supports basic operations such as creating, reading, updating, and deleting products via API endpoints.
+This is a simple Product CRUD API built using **Laravel 12** and **Eloquent ORM**. It supports basic operations such as creating, reading, updating, and deleting products via API endpoints.
 
 ## 🚀 API Endpoints
 
